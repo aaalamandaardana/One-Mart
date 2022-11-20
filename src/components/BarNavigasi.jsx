@@ -9,7 +9,7 @@ const BarNavigasi = () => {
         <div>
             <nav className="navbar navbar-expand-lg bg-white py-3 shadow-sm">
             <div className="container">
-                <NavLink className="navbar-brand fw-bold fs-4" to="/beranda">
+                <NavLink className="navbar-brand fw-bold fs-4" to="/">
                     One-Mart
                 </NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

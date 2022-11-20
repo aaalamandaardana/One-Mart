@@ -13,7 +13,7 @@ function App() {
     <>
       <BarNavigasi/>
       <Routes>
-        <Route path='/beranda' element={<Beranda/>} />
+        <Route path='/' element={<Beranda/>} />
         <Route path='/produk' element={<Produk/>} />
         <Route path='/produk/:id' element={<Produk1/>} />
         <Route path='/kontak' element={<Kontak/>} />
