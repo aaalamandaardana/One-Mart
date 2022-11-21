@@ -1,5 +1,5 @@
 const GitHubArda = () => {
-    window.location.replace('https://github.com/aaalamandaardana');
+    window.location.href = 'https://github.com/aaalamandaardana';
     return null;
 }
 
