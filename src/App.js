@@ -34,12 +34,10 @@ function App() {
         <Route path='/github-rizal' element={<GitHubRizal/>} />
         <Route path='/github-fatcur' element={<GitHubFatcur/>} />
         <Route path='/github-qadri' element={<GitHubQadri/>} />
-
         <Route path='/ig-arda' element={<IGArda/>} />
         <Route path='/ig-rizal' element={<IGRizal/>} />
         <Route path='/ig-fatcur' element={<IGFatcur/>} />
         <Route path='/ig-qadri' element={<IGQadri/>} />
-
         <Route path='/linkedin-arda' element={<LinkedInArda/>} />
         <Route path='/linkedin-rizal' element={<LinkedInRizal/>} />
         <Route path='/linkedin-fatcur' element={<LinkedInFatcur/>} />
