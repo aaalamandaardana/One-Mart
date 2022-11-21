@@ -30,7 +30,6 @@ function App() {
         <Route path='/kontak' element={<Kontak/>} />
         <Route path='/keranjang' element={<Keranjang/>} />
         <Route path='/checkout' element={<Checkout/>} />
-
         <Route path='/github-arda' element={<GitHubArda/>} />
         <Route path='/github-rizal' element={<GitHubRizal/>} />
         <Route path='/github-fatcur' element={<GitHubFatcur/>} />
